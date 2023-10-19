@@ -1,0 +1,9 @@
+/* CSS Reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h4{
+  color: rgb(92, 58, 136);
+}
